@@ -14,4 +14,5 @@
 
 
 - [2025-06] ***3rd Place 🎖️*** HECTO | 2025 SW 아카데미 🎈
+- [2025-08] ***Finalist 🌟*** LIKELION | 2025 중앙해커톤 최종 본선 진출 💰
 - [2025-09] ***2nd Place 🎖️*** SKU | 2025 SKTHON 🧩
