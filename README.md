@@ -2,7 +2,7 @@
 
 ## 💻 Job Experience
 
-- [2025. 09 ~ **NOW**]&nbsp;
+- [2025. 09 ~ 2025. 12]&nbsp;
   <img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png"
        alt="Hectodata Logo"
        style="height: 1em; vertical-align: middle;">&nbsp;
